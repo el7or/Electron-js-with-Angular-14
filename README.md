@@ -20,6 +20,6 @@ There is no change in angular commands you can use them as is.
 
 ---
 
-#### angular electron communication
+#### angular electron communication using:
 
 - [ipcMain](https://www.electronjs.org/docs/latest/api/ipc-main)
